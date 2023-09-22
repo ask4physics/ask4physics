@@ -1,4 +1,4 @@
-# Hello <img src="images/wave.gif" width="25px">, 🌏
+Hello <img src="images/wave.gif" width="15px">, 🌏
 
 - ✝️
 - Currently in 🇸🇬
