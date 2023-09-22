@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, 🌏
+# Hello <img src="images/wave.gif" width="25px">, 🌏
 
 - ✝️
 - Currently in 🇸🇬
